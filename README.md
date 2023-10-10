@@ -17,12 +17,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Yagnik Devani</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-- 🌱 I’m currently learning 🅰️Angular. 
-- 💬 Ask me about anything 👨‍💻
-- 📫 Mail me at [yagnikdevani00@gmail.com](mailto:yagnikdevani00@gmail.com)
-- ⚡ Fun fact about me: John Wick of Web Development (Man of Focus, Determination, and Sheer Will) 😉
-
+-🚀 Full-Stack React Developer 🌐
+-💬 Let's talk all things React, JavaScript, and web development! 👨‍💻
+-📫 Contact me at [yagnikdevani00@gmail.com](mailto:yagnikdevani00@gmail.com)
+-⚡ Fun fact: I'm your go-to problem solver in the world of React, turning ideas into interactive web experiences! 💡🔧
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
