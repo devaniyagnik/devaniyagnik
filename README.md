@@ -60,7 +60,7 @@ Here are some ideas to get you started:
     </td>
      <td>
        <a href="https://www.github.com/yagnikdevani00">
-       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=yagnikdevani00&repo=portfolio&theme=tokyonight&show_icons=true&hide_border=true" />
+       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=yagnikdevani00&repo=master-portfolio&theme=tokyonight&show_icons=true&hide_border=true" />
       </a>
     </td>
   </tr>
