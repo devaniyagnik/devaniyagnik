@@ -72,4 +72,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+[![My Website](https://img.shields.io/badge/Visit-My%20Website-%230077B5?style=for-the-badge)](https://yagnik-devani.vercel.app/)
+
 </p>
