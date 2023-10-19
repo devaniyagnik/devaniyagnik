@@ -41,24 +41,24 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <a href="https://www.github.com/yagnikdevani00">
-     <img src="https://github-readme-stats.vercel.app/api?username=yagnikdevani00&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="thinkswell" />
+     <img src="https://github-readme-stats.vercel.app/api?username=devaniyagnik&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="thinkswell" />
       </a>
     </td>
     <td> 
       <a href="https://www.github.com/yagnikdevani00">
-       <img src ="http://github-readme-streak-stats.herokuapp.com?user=yagnikdevani00&hide_border=true&theme=tokyonight" />
+       <img src ="http://github-readme-streak-stats.herokuapp.com?user=devaniyagnik&hide_border=true&theme=tokyonight" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://www.github.com/yagnikdevani00">
-       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=yagnikdevani00&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
+       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=devaniyagnik&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
       </a>
     </td>
      <td>
        <a href="https://www.github.com/yagnikdevani00">
-       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=yagnikdevani00&repo=master-portfolio&theme=tokyonight&show_icons=true&hide_border=true" />
+       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=devaniyagnik&repo=master-portfolio&theme=tokyonight&show_icons=true&hide_border=true" />
       </a>
     </td>
   </tr>
