@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <a href="https://www.github.com/yagnikdevani00">
-       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=devaniyagnik&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" style="width:100%" />
+       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=devaniyagnik&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" style="width:100%;" />
       </a>
     </td>
      <td>
