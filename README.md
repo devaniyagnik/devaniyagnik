@@ -57,7 +57,7 @@ Here are some ideas to get you started:
       </a>
     </td>
      <td>
-       <a href="https://www.github.com/yagnikdevani00">
+       <a href="https://www.github.com/yagnikdevani00" style="width:100%;" >
        <img src ="https://github-readme-stats.vercel.app/api/pin/?username=devaniyagnik&repo=master-portfolio&theme=tokyonight&show_icons=true&hide_border=true" style="width:100%;" />
       </a>
     </td>
