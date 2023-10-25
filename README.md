@@ -1,5 +1,5 @@
 <!--
-**yagnikdevani00/yagnikdevani00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**devaniyagnik/devaniyagnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -42,24 +42,24 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-      <a href="https://www.github.com/yagnikdevani00">
+      <a href="https://www.github.com/devaniyagnik">
      <img src="https://github-readme-stats.vercel.app/api?username=devaniyagnik&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="thinkswell" />
       </a>
     </td>
     <td> 
-      <a href="https://www.github.com/yagnikdevani00">
+      <a href="https://www.github.com/devaniyagnik">
        <img src ="http://github-readme-streak-stats.herokuapp.com?user=devaniyagnik&hide_border=true&theme=tokyonight" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://www.github.com/yagnikdevani00">
+      <a href="https://www.github.com/devaniyagnik">
        <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=devaniyagnik&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" style="width:100%;" />
       </a>
     </td>
      <td>
-       <a href="https://www.github.com/yagnikdevani00" >
+       <a href="https://www.github.com/devaniyagnik" >
        <img src ="https://github-readme-stats.vercel.app/api/pin/?username=devaniyagnik&repo=master-portfolio&theme=tokyonight&show_icons=true&hide_border=true" style="width:100%;" />
       </a>
     </td>
