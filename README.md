@@ -59,8 +59,8 @@ Here are some ideas to get you started:
       </a>
     </td>
      <td>
-       <a href="https://www.github.com/devaniyagnik" >
-       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=devaniyagnik/master-portfolio&repo=master-portfolio&theme=tokyonight&show_icons=true&hide_border=true" style="width:100%;" />
+       <a href="https://www.github.com/devaniyagnik/master-portfolio" >
+       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=devaniyagnik&repo=master-portfolio&theme=tokyonight&show_icons=true&hide_border=true" style="width:100%;" />
       </a>
     </td>
   </tr>
