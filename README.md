@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/yagnikdevani">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://yagnik-devani.vercel.app">
+<a href="https://yagnikdevani.vercel.app">
   <img src="https://img.shields.io/badge/My%20Website-%230077B5?&style=for-the-badge&logo=Website&logoColor=white">
 </a>
 
