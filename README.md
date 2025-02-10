@@ -32,7 +32,13 @@ Here are some ideas to get you started:
   <img alt="ReactJs" src="https://img.shields.io/badge/react.js-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="Sails.js" src="https://img.shields.io/badge/sails.js-%23339999.svg?&style=for-the-badge&logo=sails.js&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="Postman" src="https://img.shields.io/badge/postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white"/>
+  <img alt="Express" src="https://img.shields.io/badge/express-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white"/>
 </p>
+
 
 
 <br/> <br/>
