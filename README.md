@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - 🚀 Full Stack Developer 🌐
-- 💬 Let's talk all things React, JavaScript, and web development! 👨‍💻
+- 💬 Let's talk all things Full Stack development, from React and JavaScript to backend technologies like Node.js and MongoDB! 👨‍💻
 - 📫 Contact me at [yagnikdevani00@gmail.com](mailto:yagnikdevani00@gmail.com)
 - ⚡ Fun fact: I'm your go-to problem solver in the world of React, turning ideas into interactive web experiences! 💡🔧
 
